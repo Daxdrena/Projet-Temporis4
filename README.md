@@ -3,8 +3,8 @@ Lien github page : <https://daxdrena.github.io/Projet-Temporis4/>
 
 ## Qui suis-je?
 
-Je suis octocat codeur à Becode, j'apprends princicpalement html, css, javascript, php, sql.
-Mes compétences sont en plein dévellopement, et ce site est un bon exercice pour m'entraîné dans mon apprentissage.
+Je suis octocat codeur à Becode, j'apprends principalement html, css, javascript, php, sql.
+Mes compétences sont en plein dévelopement, et ce site est un bon exercice pour m'entraîner dans mon apprentissage.
 
 ## Pourquoi ce site?
 
@@ -20,12 +20,15 @@ Ce site est fait main par moi même, il est simple, il y a pas de coockies, pas 
 
 2 moyens s'offrent à vous.
 
-Twitter <https://twitter.com/Adrenalyne10>
+Twitter : <https://twitter.com/Adrenalyne10>
+
 ou 
-Discord Adrena#7192 (préférence pour discord)
+
+Discord : Adrena#7192 (grosse préférence pour discord)
 
 Dans les informations utiles que j'aimerais recevoir pour mettre à jour le site, c'est un screen du combat avec le drop
-Dans ce screen les informations souhaitée sont : - la zone
+Dans ce screen les informations souhaitée sont : 
+- la zone
 - les monstres affrontés
 - l'objet récolté
 
