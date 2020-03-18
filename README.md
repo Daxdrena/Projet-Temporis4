@@ -16,7 +16,7 @@ Si j'étais un joueur qui commence le serveur j'aurais aimé un site où l'on pu
 
 Ce site est fait main par moi même, il est simple, il y a pas de coockies, pas de pub, aucun log-in, aucun mot de passe, juste des informations utiles.
 
-## Comment donner des infos? Et quel infos?
+## Comment donner des infos? Et quelles infos?
 
 2 moyens s'offrent à vous.
 
