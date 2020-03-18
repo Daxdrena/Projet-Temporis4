@@ -1,0 +1,39 @@
+body {
+  width: 100%;
+  background-color: #222222;
+  color: white;
+}
+
+.test {
+  border: white solid 1px;
+}
+
+.title-pri {
+  text-align: center;
+}
+
+#items {
+  border: white solid 1px;
+}
+
+.img-item {
+  width: 80px;
+  height: auto;
+}
+
+.center {
+  text-align: center;
+}
+
+.item-zone {
+  margin: 4px;
+}
+
+.comment-zone {
+  margin: 4px;
+}
+
+h2 {
+  margin-left: 55px;
+}
+/*# sourceMappingURL=style.css.map */
